@@ -54,3 +54,4 @@ gem 'friendly_id', '~> 5.1.0'
 
 gem 'bootstrap', '~> 4.0.0.alpha6'
 gem 'jquery-rails'
+gem 'lauricella_view_tool', git: 'https://github.com/samuellauricella/lauricella_view_tool'
